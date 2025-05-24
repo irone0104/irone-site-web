@@ -68,7 +68,7 @@
 /* Hero Section */
 .hero {
   background-image: linear-gradient(rgba(0, 0, 0, 0.103), rgba(0, 0, 0, 0.993)),
-    url(img/K7.jpeg);
+    url(K7.jpeg);
   width: 100%;
   background-position: center;
   background-size: cover;
