@@ -47,7 +47,7 @@
     left: 50%;
     transform: translateX(-50%);
     gap: 40px;
-    background-color: rgba(102, 51, 153, 0.507);
+    background-color: rgba(51, 51, 51, 0.507);
     padding: 20px;
     backdrop-filter: blur(10px);
     border-top-left-radius: 10px;
