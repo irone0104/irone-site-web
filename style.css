@@ -67,16 +67,10 @@
 
 /* Hero Section */
 .hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.103), rgba(0, 0, 0, 0.993)),
-    url(K7.jpeg);
-  width: 100%;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  text-align: center;
+ text-align: center;
   color: aliceblue;
-  padding-top: 150px;
-  padding-bottom: 500px;
+  padding-top: 10px;
+  padding-bottom: 50px;
 }
 
 .hero h1 {
